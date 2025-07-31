@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/player_play.png</file>
+        <file>resources/icons/gtk-add.png</file>
+        <file>resources/qss/app_ENG.qss</file>
+    </qresource>
+</RCC>
